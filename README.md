@@ -20,4 +20,8 @@ yarn  test
 
 http://localhost:3333/boleto/21290001192110001210904475617405975870000002000
 
+### Instructions
+To test the project compile the project with yarn install and run the server with yarn dev.
+The project runs on port 3333.
 
+http://localhost:3333/boleto/21290001192110001210904475617405975870000002000
